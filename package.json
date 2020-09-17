@@ -6,10 +6,9 @@
   "license": "MIT",
   "repository": "zeit/pkg",
   "bin": {
-    "pkg": "lib/bin.js"
+    "pkg": "lib-es5/bin.js"
   },
   "files": [
-    "lib/*.js",
     "lib-es5/*.js",
     "dictionary/*.js",
     "prelude/*.js"
